@@ -6182,6 +6182,9 @@ a.close.disabled {
   vertical-align: text-top !important;
 }
 
+.bg-grayish {
+	background-color: #e9ecef !important;
+}
 .bg-primary {
   background-color: #1abc9c !important;
 }
