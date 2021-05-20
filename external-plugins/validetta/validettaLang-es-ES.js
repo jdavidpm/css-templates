@@ -3,7 +3,7 @@
 	$.validettaLanguage = {
 		init : function(){
 			$.validettaLanguage.messages = {
-				required	: 'Campo obligatorio.',
+				required	: 'No puede estar vacio.',
 				email		: 'Correo electrónico no válido.',
 				number		: 'Este campo sólo acepta valores numéricos.',
 				maxLength	: 'Este campo acepta como máximo {count} caracteres.',
@@ -13,7 +13,7 @@
 				maxSelected	: 'Sólo se puede marcar {count} opciones como máximo.',
 				minSelected	: 'Es necesario marcar como mínimo {count} opciones.',
 				notEqual	: 'Los campos no coinciden.',
-				different   : 'Fields cannot be the same as each other',
+				different   : 'Campos no pueden ser iguales.', //Fields cannot be the same as each other
 				creditCard	: 'Tarjeta de crédito no válida.'
 			};
 		}
