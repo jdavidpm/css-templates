@@ -4035,7 +4035,7 @@ input[type=button].btn-block {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #343a40;
+  background-color: #1abc9c;
 }
 
 .nav-fill > .nav-link,
@@ -10177,13 +10177,13 @@ h3 {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #343a40;
+  color: #1abc9c;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #343a40;
+  color: #1abc9c;
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
@@ -10205,11 +10205,11 @@ h3 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #343a40;
+    background: #1abc9c;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #343a40;
+    background: #1abc9c;
   }
 
   #mainNav.navbar-shrink {
